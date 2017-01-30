@@ -1,0 +1,10 @@
+install/
+libinput/
+libunwind/
+mesa/
+my-wayland-experiments/
+wayland-protocols/
+wayland/
+weston/
+wlterm/
+
