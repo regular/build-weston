@@ -1,0 +1,8 @@
+This repository contains helper scripts to build
+a custom weston compositor.
+Code for the actual libraries and applications are in their
+respective, separae repositories.
+
+See https://wayland.freedesktop.org/building.html for details
+on building weston.
+
